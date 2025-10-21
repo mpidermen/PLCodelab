@@ -9,5 +9,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Selamat datang di DocumentationPractice!");
         System.out.println("Program ini dibuat untuk latihan Codelab 2 Modul 3.");
+        System.out.println("codelab 1");
     }
 }
